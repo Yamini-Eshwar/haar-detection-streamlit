@@ -58,10 +58,10 @@ st.title("🚀 Haar Cascade Detection App")
 detector_type = st.sidebar.selectbox("Choose Detection Type", ["Face", "Eyes", "Pedestrians", "Cars"])
 
 cascade_paths = {
-    "Face": r"C:\Users\vamsi\Downloads\haarcascade_frontalface_default.xml",
-    "Eyes": r"C:\Users\vamsi\Downloads\haarcascade_eye.xml",
-    "Pedestrians": r"C:\Users\vamsi\Downloads\haarcascade_fullbody.xml", 
-    "Cars": r"C:\Users\vamsi\Downloads\cars.xml"
+    "Face": "haarcascade_frontalface_default.xml",
+    "Eyes": "haarcascade_eye.xml",
+    "Pedestrians": "haarcascade_fullbody.xml",
+    "Cars": "haarcascade_car.xml"
 }
 
 # For Face and Eyes - Image Upload
