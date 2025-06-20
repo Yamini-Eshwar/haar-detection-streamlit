@@ -2,7 +2,8 @@
 
 A Streamlit app for real-time face, eye, pedestrian, and car detection using Haar cascade classifiers.
 
-![Uploading image.png…]()
+
+![c](https://github.com/user-attachments/assets/80cfb49b-683b-489a-83cf-aac31d4f3de8)
 
 
 ## 💡 Features
